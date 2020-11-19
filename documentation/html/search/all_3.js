@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['c_50',['C',['../namespacesrc_1_1inference_1_1model__comparison.html#a41c0b076ecde20042529d9676c3a8670',1,'src::inference::model_comparison']]],
+  ['cap_51',['cap',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a779d1a3ceabc6d265970a33dc481ba53',1,'src::inference::prophet::MyProphet']]],
+  ['change_5fvpn_52',['change_vpn',['../namespacescrape.html#a832e389ce44f72dba244fdd9e2a68a14',1,'scrape']]],
+  ['changelog_2emd_53',['CHANGELOG.md',['../CHANGELOG_8md.html',1,'']]],
+  ['changepoint_5fprior_5fscale_54',['changepoint_prior_scale',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a66747d63daba4c7707592755ceb3a5b4',1,'src::inference::prophet::MyProphet']]],
+  ['clean_5fdf_55',['clean_df',['../namespacesrc_1_1data__management_1_1socialblade__processing.html#a4ce9bef766cc0f0f56ece65dfb84eab2',1,'src.data_management.socialblade_processing.clean_df()'],['../namespacepipeline.html#a85230a63f72a34a7170676b5d10ebb10',1,'pipeline.clean_df()']]],
+  ['clear_5fall_56',['clear_all',['../classsrc_1_1inference_1_1load__in_1_1LoadIn.html#a0c300f8c620672911a52a973a1a2a803',1,'src::inference::load_in::LoadIn']]],
+  ['clear_5fdictionaries_57',['clear_dictionaries',['../namespacework__packages__creator.html#a7f790c0158608f3c2b29b30c3308ded3',1,'work_packages_creator']]],
+  ['clear_5fdictionary_58',['clear_dictionary',['../namespacescrape.html#a3ce572e5ef7206135fcab42e292a6349',1,'scrape']]],
+  ['clear_5fset_59',['clear_set',['../classsrc_1_1inference_1_1load__in_1_1LoadIn.html#a2ec0b6365c5737f21ce3636ecfd13b1d',1,'src::inference::load_in::LoadIn']]],
+  ['cmd_60',['CMD',['../namespacesrc_1_1data__management_1_1main.html#a9d4902d18b012ec3971361842e6eda42',1,'src::data_management::main']]],
+  ['cols_61',['cols',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a706a42d6451a5739e50e989ec5f98afe',1,'src::inference::prophet::MyProphet']]],
+  ['compare_5fmodels_62',['compare_models',['../namespacesrc_1_1inference_1_1model__comparison.html#aeafd63d94b3df4b0733c28a5e2ea2d8d',1,'src::inference::model_comparison']]],
+  ['concat_5fdata_5fframes_63',['concat_data_frames',['../namespacesrc_1_1data__management_1_1socialblade__processing.html#acce4674a945992dc8d945064fb897104',1,'src::data_management::socialblade_processing']]],
+  ['corona_5fprocessing_64',['corona_processing',['../namespacepipeline.html#ae08ccde43cec3e5d94e2baa09d01485a',1,'pipeline']]],
+  ['corona_5fprocessing_5fplot_65',['corona_processing_plot',['../namespacepipeline.html#ab2e51001ebb033084d5f805c664ffc66',1,'pipeline']]],
+  ['covidcollector_66',['CovidCollector',['../classsrc_1_1data__management_1_1data__collection_1_1CovidCollector.html',1,'src::data_management::data_collection']]],
+  ['create_5fdate_67',['create_date',['../namespacedatapoint__collection.html#add2bd8b2e1a94f5be792869161443773',1,'datapoint_collection']]],
+  ['create_5fkernel_68',['create_kernel',['../classsrc_1_1inference_1_1gaussian__model_1_1GaussianModel.html#a9f65da5ed4f3793ebefef7322fcd9ca1',1,'src::inference::gaussian_model::GaussianModel']]],
+  ['create_5fmonth_5fdf_69',['create_month_df',['../namespacesrc_1_1data__management_1_1socialblade__processing.html#afd1586b82125d3ab6f0e1aab1f96e04a',1,'src::data_management::socialblade_processing']]],
+  ['create_5fweek_5fdf_70',['create_week_df',['../namespacesrc_1_1data__management_1_1socialblade__processing.html#ab407e6ceda7be7bb2d3b1743f38d8433',1,'src::data_management::socialblade_processing']]],
+  ['cross_5fvalidation_71',['cross_validation',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a1b7a6f1ae18fcecc56f908440e08a6ff',1,'src::inference::prophet::MyProphet']]],
+  ['csv_5fname_72',['csv_name',['../classsrc_1_1data__management_1_1data__collection_1_1ICollector.html#af940de1d5798b76fa51dbc07c04cce2b',1,'src.data_management.data_collection.ICollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1SteamCollector.html#acf377f60dfbf82aefcbc60c677ab6009',1,'src.data_management.data_collection.SteamCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1CovidCollector.html#a594fd1f04c6001960944db1448cb492a',1,'src.data_management.data_collection.CovidCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1PornhubCollector.html#a51fe6105da7077cbb70165c285d105b2',1,'src.data_management.data_collection.PornhubCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1PSCollector.html#a10fe41f250eef95565069cea190ef09b',1,'src.data_management.data_collection.PSCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1FinanceCollector.html#a8bc0c95b141a1bb4d8a7dc38b67da1bf',1,'src.data_management.data_collection.FinanceCollector.csv_name()']]],
+  ['cwd_73',['cwd',['../namespacescrapper.html#a4761dfc9b6c8409bbdadbccabebfc304',1,'scrapper']]],
+  ['change_20logs_74',['Change Logs',['../md_src_webinterface_clean-frontend_CHANGELOG.html',1,'']]]
+];

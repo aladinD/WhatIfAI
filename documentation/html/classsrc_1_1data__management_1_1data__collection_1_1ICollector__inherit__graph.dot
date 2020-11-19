@@ -1,0 +1,22 @@
+digraph "src.data_management.data_collection.ICollector"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="src.data_management.data\l_collection.ICollector",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="metaclass",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ABCMeta",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="src.data_management.data\l_collection.CovidCollector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsrc_1_1data__management_1_1data__collection_1_1CovidCollector.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="src.data_management.data\l_collection.FinanceCollector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsrc_1_1data__management_1_1data__collection_1_1FinanceCollector.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="src.data_management.data\l_collection.PornhubCollector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsrc_1_1data__management_1_1data__collection_1_1PornhubCollector.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="src.data_management.data\l_collection.PSCollector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsrc_1_1data__management_1_1data__collection_1_1PSCollector.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="src.data_management.data\l_collection.SteamCollector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsrc_1_1data__management_1_1data__collection_1_1SteamCollector.html",tooltip=" "];
+}

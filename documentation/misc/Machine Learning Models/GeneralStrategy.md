@@ -1,0 +1,15 @@
+#  General ML Strategy 
+
+To date, the COVID-19 pandemic has more or less affected the whole world, **both socially and economically**. Thus, the **driving motivation** behind AMI and our project is to investigate its **respective impact** on various domains such as online traffic and economic performance. To this, we have decided for the following ML model strategy.  
+
+First, data shall be collected that reflects **both pre- and post-corona** outbreak statistics in several **everyday scenarios** such as streaming activity, etc. The underlying data sets are then **split up** accordingly into two different time frames: pre and post corona-start.
+
+The former data set is used to train an ML model which is able to sufficiently **characterize and predict** the model outcome for the **respective domain of interest** (internet traffic, social media, porn consumption, etc.) for a scenario where the **corona pandemic did not occur**. By doing this, we can very clearly address the **impact of corona** through the respective **error** between the second post corona-start data set and the predicted model output. This interpretable error metric can then be effectively **visualized** in the final web-interface.
+
+Based on this model, its outcome and the respective error metric, a **future possible task** - that we will not further investigate - could be to **fully capture the pandemic dynamic** in a second subsequent model architecture. To this, the later data set can be used to train a model that allows for a **prediction of the actual outcome for the current corona pandemic**. Assuming that the model has been sufficiently trained, it is in theory also able to predict a - more or less realistic - outcome for **e.g. worse case numbers, higher infection rates etc.** The variation in this **"corona harshness degree"** could be implemented into the web-interface alongside above first model output. Furthermore, it allows the user to **interact with the model** by adjusting above dynamic parameters such as the case numbers. However, it is to be noted that this approach - while being very interesting - becomes an **increasingly speculative estimation** for a variation of the dynamic parameters and especially so w.r.t. **long term interpretations**.  
+
+In summary, **two model approaches** are proposed where the first predicts a future **without corona** and the second one **with it**. In order to be able to precisely **highlight the impact of the pandemic** on the selected domains of our everyday lives, we decide to **realize the first model** in this project whose predicted output can then be compared to the accumulated real-world pandemic data in the form of an **error metric**. An example of how a **potential model output** would compare against the real data is depicted in below figure for the streaming domain which has seen a **surge during the pandemic** and especially after the lockdown.
+
+<img src="/documentation/Matlab Plots/ML Strategy/corona.jpg" alt="ML Strategy" width="1100"/>
+
+The corresponding Matlab Plot Script as well as above .jpg can be found [here](/documentation/Matlab Plots/ML Strategy)

@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['c_795',['C',['../namespacesrc_1_1inference_1_1model__comparison.html#a41c0b076ecde20042529d9676c3a8670',1,'src::inference::model_comparison']]],
+  ['cap_796',['cap',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a779d1a3ceabc6d265970a33dc481ba53',1,'src::inference::prophet::MyProphet']]],
+  ['changepoint_5fprior_5fscale_797',['changepoint_prior_scale',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a66747d63daba4c7707592755ceb3a5b4',1,'src::inference::prophet::MyProphet']]],
+  ['cmd_798',['CMD',['../namespacesrc_1_1data__management_1_1main.html#a9d4902d18b012ec3971361842e6eda42',1,'src::data_management::main']]],
+  ['cols_799',['cols',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a706a42d6451a5739e50e989ec5f98afe',1,'src::inference::prophet::MyProphet']]],
+  ['csv_5fname_800',['csv_name',['../classsrc_1_1data__management_1_1data__collection_1_1ICollector.html#af940de1d5798b76fa51dbc07c04cce2b',1,'src.data_management.data_collection.ICollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1SteamCollector.html#acf377f60dfbf82aefcbc60c677ab6009',1,'src.data_management.data_collection.SteamCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1CovidCollector.html#a594fd1f04c6001960944db1448cb492a',1,'src.data_management.data_collection.CovidCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1PornhubCollector.html#a51fe6105da7077cbb70165c285d105b2',1,'src.data_management.data_collection.PornhubCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1PSCollector.html#a10fe41f250eef95565069cea190ef09b',1,'src.data_management.data_collection.PSCollector.csv_name()'],['../classsrc_1_1data__management_1_1data__collection_1_1FinanceCollector.html#a8bc0c95b141a1bb4d8a7dc38b67da1bf',1,'src.data_management.data_collection.FinanceCollector.csv_name()']]],
+  ['cwd_801',['cwd',['../namespacescrapper.html#a4761dfc9b6c8409bbdadbccabebfc304',1,'scrapper']]]
+];

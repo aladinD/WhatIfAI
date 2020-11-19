@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['mae_245',['mae',['../classsrc_1_1inference_1_1extreme__learning_1_1ExtremeLearningMachine.html#a03fd11074114b4551f4bf9410879a709',1,'src::inference::extreme_learning::ExtremeLearningMachine']]],
+  ['main_246',['main',['../namespacemain.html',1,'main'],['../namespacemain.html#af613cea4cba4fb7de8e40896b3368945',1,'main.main()'],['../namespacedatapoint__collection.html#aa5075f8c2089cd959c72b3528136ad9f',1,'datapoint_collection.main()'],['../namespacescrape.html#a5653dd5601f9b92af6a260a7fab1ff43',1,'scrape.main()'],['../namespacestart__containers.html#a62892dbf0a547d0547bdf4c4e00a66d7',1,'start_containers.main()'],['../namespacework__packages__creator.html#a5db98a560b926f60e1db89c0204f5df4',1,'work_packages_creator.main()'],['../namespacesrc_1_1data__management_1_1preprocessing__ix.html#aa5c5be71419cdc47354485f8bbd52111',1,'src.data_management.preprocessing_ix.main()'],['../namespacesrc_1_1data__management_1_1socialblade__processing.html#a2fca53b8d0c529badd52181a252ea014',1,'src.data_management.socialblade_processing.main()'],['../namespacesrc_1_1data__management_1_1twitch__processing.html#adb11f493ec7b9690246fd6e0754d1a61',1,'src.data_management.twitch_processing.main()'],['../namespacesrc_1_1webinterface_1_1backend_1_1api.html#ae4d2ad87dd728edd023486e66a524ec6',1,'src.webinterface.backend.api.main()']]],
+  ['main_2epy_247',['main.py',['../main_8py.html',1,'(Global Namespace)'],['../src_2data__management_2main_8py.html',1,'(Global Namespace)']]],
+  ['man_5fdata_248',['man_data',['../namespacesrc_1_1data__management_1_1main.html#a8cf5de2ec41e3dd7d100d3ec6519104c',1,'src::data_management::main']]],
+  ['match_249',['match',['../namespaceget__data.html#a7d2438a2e7dbfcdb856740e4f4291132',1,'get_data']]],
+  ['med_5fcodes_250',['med_codes',['../namespaceutils.html#a80e596ad39b63214293d390f2ffd2abe',1,'utils']]],
+  ['metric_251',['metric',['../classsrc_1_1inference_1_1online__fcn_1_1OnlineFCN.html#aaa055ac7430747d8f6c7bb3872268997',1,'src.inference.online_fcn.OnlineFCN.metric()'],['../classsrc_1_1inference_1_1online__time__pred_1_1OnTimePred.html#a871dd416409f438968eb395016c6b084',1,'src.inference.online_time_pred.OnTimePred.metric()'],['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#ab2f350e279840f989beccf4622645934',1,'src.inference.prophet.MyProphet.metric()']]],
+  ['metrics_252',['metrics',['../classsrc_1_1inference_1_1online__models_1_1OnlineDense.html#a321536fd1d990287b9f72716ed480364',1,'src::inference::online_models::OnlineDense']]],
+  ['min_5fmax_5fscaling_253',['MIN_MAX_SCALING',['../classsrc_1_1data__management_1_1interface_1_1PreprocessDataInterface.html#a1d76035a88af6e0720531d5cd98a43ed',1,'src::data_management::interface::PreprocessDataInterface']]],
+  ['mode_254',['MODE',['../namespacesrc_1_1data__management_1_1main.html#a3c6bf3dc8008a3f7810dd032aad99ab8',1,'src::data_management::main']]],
+  ['model_255',['model',['../classsrc_1_1inference_1_1extreme__learning_1_1ExtremeLearningMachine.html#acf6e0be296cd1e2f355e74f7cd551b93',1,'src.inference.extreme_learning.ExtremeLearningMachine.model()'],['../classsrc_1_1inference_1_1online__models_1_1OnlineDense.html#aca756ae9a200fae4d037643bf26aa5fe',1,'src.inference.online_models.OnlineDense.model()'],['../classsrc_1_1inference_1_1online__time__pred_1_1OnTimePred.html#af292b7b9219e13610f2b9777df3d94e7',1,'src.inference.online_time_pred.OnTimePred.model()'],['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html#a9d51d4caed35c25e54ed0f74f0e6af46',1,'src.inference.prophet.MyProphet.model()']]],
+  ['model_5fcomparison_2epy_256',['model_comparison.py',['../model__comparison_8py.html',1,'']]],
+  ['model_5fevaluation_2epy_257',['model_evaluation.py',['../model__evaluation_8py.html',1,'']]],
+  ['models_258',['models',['../classsrc_1_1inference_1_1model__evaluation_1_1Learning.html#a7b7a3520c7ce3db1f94ba692df968838',1,'src::inference::model_evaluation::Learning']]],
+  ['month_5fand_5fday_259',['month_and_day',['../namespacesrc_1_1inference_1_1model__evaluation.html#a98e5bb5e542ce2ce05bcab75b3a5a63c',1,'src::inference::model_evaluation']]],
+  ['mse_260',['mse',['../classsrc_1_1inference_1_1extreme__learning_1_1ExtremeLearningMachine.html#a29a16023761c7306ed00a346c83042f9',1,'src::inference::extreme_learning::ExtremeLearningMachine']]],
+  ['mskix_261',['mskix',['../namespacemskix.html',1,'']]],
+  ['mskix_2epy_262',['mskix.py',['../mskix_8py.html',1,'']]],
+  ['mskix_5fmax_263',['mskix_max',['../namespacemskix__max.html',1,'']]],
+  ['mskix_5fmax_2epy_264',['mskix_max.py',['../mskix__max_8py.html',1,'']]],
+  ['mskix_5furl_265',['MSKIX_URL',['../namespacedatapoint__collection.html#a90e94007c50621b8b2d204e76659eee7',1,'datapoint_collection']]],
+  ['myprophet_266',['MyProphet',['../classsrc_1_1inference_1_1prophet_1_1MyProphet.html',1,'src::inference::prophet']]]
+];
